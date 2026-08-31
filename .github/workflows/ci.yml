@@ -63,5 +63,5 @@ jobs:
 
     - name: Build Docker images
       run: |
-       run: docker build -f Dockerfile -t truthscan-backend .
+        docker build -f Dockerfile -t truthscan-backend .
         docker build -t truthscan-frontend ./frontend
