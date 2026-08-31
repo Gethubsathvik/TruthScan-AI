@@ -1,0 +1,1666 @@
+{
+  "news_sources": [
+    {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Indian Express",
+      "url": "https://indianexpress.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "The Telegraph",
+      "url": "https://www.telegraphindia.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Deccan Herald",
+      "url": "https://www.deccanherald.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "The Print",
+      "url": "https://www.theprint.in/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Scroll.in",
+      "url": "https://scroll.in/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "The Quint",
+      "url": "https://www.thequint.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Firstpost",
+      "url": "https://www.firstpost.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "News18",
+      "url": "https://www.news18.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "NDTV",
+      "url": "https://www.ndtv.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "India Today",
+      "url": "https://www.indiatoday.in/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/",
+      "country": "UK",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "AP News",
+      "url": "https://apnews.com/",
+      "country": "USA",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "BBC News",
+      "url": "https://www.bbc.com/",
+      "country": "UK",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Aaj Tak",
+      "url": "https://www.aajtak.in/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "ABP Live",
+      "url": "https://www.abplive.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "Amar Ujala",
+      "url": "https://www.amarujala.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "Bhaskar",
+      "url": "https://www.bhaskar.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "Jagran",
+      "url": "https://www.jagran.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "Live Hindustan",
+      "url": "https://www.livehindustan.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "Zee News Hindi",
+      "url": "https://www.zeenews.india.com/hindi",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "News18 Hindi",
+      "url": "https://hindi.news18.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "India TV",
+      "url": "https://www.indiatv.in/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "TV9 Hindi",
+      "url": "https://www.tv9hindi.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "Republic Bharat",
+      "url": "https://www.republicbharat.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "News 24",
+      "url": "https://www.news24online.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "Patrika",
+      "url": "https://www.patrika.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "Navbharat Times",
+      "url": "https://www.navbharattimes.indiatimes.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "Jansatta",
+      "url": "https://www.jansatta.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "Nai Dunia",
+      "url": "https://www.naidunia.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "Hari Bhoomi",
+      "url": "https://www.haribhoomi.com/",
+      "country": "India",
+      "category": "news",
+      "language": "hi",
+      "credibility": "high"
+    },
+    {
+      "name": "TV9 Telugu",
+      "url": "https://tv9telugu.com/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "NTV Telugu",
+      "url": "https://www.ntvtelugu.com/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "TV5 News",
+      "url": "https://www.tv5news.in/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "Andhra Jyothy",
+      "url": "https://www.andhrajyothy.com/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "Sakshi",
+      "url": "https://www.sakshi.com/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "Eenadu",
+      "url": "https://www.eenadu.net/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "ETV Bharat",
+      "url": "https://www.etvbharat.com/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "Telugu News18",
+      "url": "https://telugu.news18.com/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "10TV",
+      "url": "https://www.10tv.in/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "HMTV Live",
+      "url": "https://www.hmtvlive.com/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "V6 Velugu",
+      "url": "https://www.v6velugu.com/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "T News",
+      "url": "https://www.tnews.tv/",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "One India Telugu",
+      "url": "https://www.oneindia.com/telugu",
+      "country": "India",
+      "category": "news",
+      "language": "te",
+      "credibility": "high"
+    },
+    {
+      "name": "Dinamalar",
+      "url": "https://www.dinamalar.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Dinamani",
+      "url": "https://www.dinamani.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Daily Thanthi",
+      "url": "https://www.dailythanthi.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Dinakaran",
+      "url": "https://www.dinakaran.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Maalaimalar",
+      "url": "https://www.maalaimalar.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Puthiya Thalaimurai",
+      "url": "https://www.puthiyathalaimurai.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Polimer News",
+      "url": "https://www.polimernews.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "News18 Tamil",
+      "url": "https://www.news18tamil.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Zee News Tamil",
+      "url": "https://www.zeenews.india.com/tamil",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Tamil News18",
+      "url": "https://tamil.news18.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Vikatan",
+      "url": "https://www.vikatan.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Nakkheeran",
+      "url": "https://www.nakkheeran.in/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Hindu Tamil",
+      "url": "https://www.hindutamil.in/",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "One India Tamil",
+      "url": "https://www.oneindia.com/tamil",
+      "country": "India",
+      "category": "news",
+      "language": "ta",
+      "credibility": "high"
+    },
+    {
+      "name": "Udayavani",
+      "url": "https://www.udayavani.com/",
+      "country": "India",
+      "category": "news",
+      "language": "kn",
+      "credibility": "high"
+    },
+    {
+      "name": "Vijay Karnataka",
+      "url": "https://vijaykarnataka.com/",
+      "country": "India",
+      "category": "news",
+      "language": "kn",
+      "credibility": "high"
+    },
+    {
+      "name": "Kannada News18",
+      "url": "https://kannada.news18.com/",
+      "country": "India",
+      "category": "news",
+      "language": "kn",
+      "credibility": "high"
+    },
+    {
+      "name": "Public TV",
+      "url": "https://publictv.in/",
+      "country": "India",
+      "category": "news",
+      "language": "kn",
+      "credibility": "high"
+    },
+    {
+      "name": "TV9 Kannada",
+      "url": "https://www.tv9kannada.com/",
+      "country": "India",
+      "category": "news",
+      "language": "kn",
+      "credibility": "high"
+    },
+    {
+      "name": "Prajavani",
+      "url": "https://www.prajavani.net/",
+      "country": "India",
+      "category": "news",
+      "language": "kn",
+      "credibility": "high"
+    },
+    {
+      "name": "Kannada Prabha",
+      "url": "https://www.kannadaprabha.com/",
+      "country": "India",
+      "category": "news",
+      "language": "kn",
+      "credibility": "high"
+    },
+    {
+      "name": "Vartha Bharathi",
+      "url": "https://www.varthabharati.in/",
+      "country": "India",
+      "category": "news",
+      "language": "kn",
+      "credibility": "high"
+    },
+    {
+      "name": "Eesanje",
+      "url": "https://www.eesanje.com/",
+      "country": "India",
+      "category": "news",
+      "language": "kn",
+      "credibility": "high"
+    },
+    {
+      "name": "Suvarna News",
+      "url": "https://www.suvarnanews.com/",
+      "country": "India",
+      "category": "news",
+      "language": "kn",
+      "credibility": "high"
+    },
+    {
+      "name": "One India Kannada",
+      "url": "https://www.oneindia.com/kannada",
+      "country": "India",
+      "category": "news",
+      "language": "kn",
+      "credibility": "high"
+    },
+    {
+      "name": "Manorama Online",
+      "url": "https://www.manoramaonline.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "Mathrubhumi",
+      "url": "https://www.mathrubhumi.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "Asianet News",
+      "url": "https://www.asianetnews.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "24 News",
+      "url": "https://www.24news.in/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "Kaumudy Global",
+      "url": "https://www.kaumudiglobal.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "Madhyamam",
+      "url": "https://www.madhyamam.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "Deepika",
+      "url": "https://www.deepika.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "Deshabhimani",
+      "url": "https://www.deshabhimani.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "Malayalam News18",
+      "url": "https://malayalam.news18.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "Media One",
+      "url": "https://www.mediaoneonline.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "Reporter Live",
+      "url": "https://www.reporterlive.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "Janmabhumi",
+      "url": "https://www.janmabhumi.in/",
+      "country": "India",
+      "category": "news",
+      "language": "ml",
+      "credibility": "high"
+    },
+    {
+      "name": "Ananda Bazar",
+      "url": "https://www.anandabazar.com/",
+      "country": "India",
+      "category": "news",
+      "language": "bn",
+      "credibility": "high"
+    },
+    {
+      "name": "Sangbad Pratidin",
+      "url": "https://www.sangbadpratidin.in/",
+      "country": "India",
+      "category": "news",
+      "language": "bn",
+      "credibility": "high"
+    },
+    {
+      "name": "Bartaman Patrika",
+      "url": "https://bartamanpatrika.com/",
+      "country": "India",
+      "category": "news",
+      "language": "bn",
+      "credibility": "high"
+    },
+    {
+      "name": "Aajkaal",
+      "url": "https://www.aajkaal.in/",
+      "country": "India",
+      "category": "news",
+      "language": "bn",
+      "credibility": "high"
+    },
+    {
+      "name": "Ei Samay",
+      "url": "https://www.eisamay.com/",
+      "country": "India",
+      "category": "news",
+      "language": "bn",
+      "credibility": "high"
+    },
+    {
+      "name": "Kolkata TV",
+      "url": "https://www.kolkatatvonline.in/",
+      "country": "India",
+      "category": "news",
+      "language": "bn",
+      "credibility": "high"
+    },
+    {
+      "name": "ABP Live Bengali",
+      "url": "https://www.abplive.com/bengal",
+      "country": "India",
+      "category": "news",
+      "language": "bn",
+      "credibility": "high"
+    },
+    {
+      "name": "Bengali News18",
+      "url": "https://bengali.news18.com/",
+      "country": "India",
+      "category": "news",
+      "language": "bn",
+      "credibility": "high"
+    },
+    {
+      "name": "Somoy News",
+      "url": "https://www.somoynews.tv/",
+      "country": "Bangladesh",
+      "category": "news",
+      "language": "bn",
+      "credibility": "high"
+    },
+    {
+      "name": "Zee Bangla",
+      "url": "https://www.zeebangla.com/",
+      "country": "India",
+      "category": "news",
+      "language": "bn",
+      "credibility": "high"
+    },
+    {
+      "name": "Loksatta",
+      "url": "https://www.loksatta.com/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "Lokmat",
+      "url": "https://www.lokmat.com/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "Esakal",
+      "url": "https://www.esakal.com/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "Sakal Media",
+      "url": "https://www.sakalmedia.com/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "Maharashtra Times",
+      "url": "https://maharashtratimes.com/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "Lokmat News18",
+      "url": "https://www.lokmat.news18.com/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "Marathi ABP Live",
+      "url": "https://marathi.abplive.com/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "Saam TV",
+      "url": "https://www.saam.tv/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "TV9 Marathi",
+      "url": "https://www.tv9marathi.com/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "Zee Marathi",
+      "url": "https://www.zeemarathi.com/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "Saam TV",
+      "url": "https://www.saamtv.com/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "Pudhari News",
+      "url": "https://www.pudhari.news/",
+      "country": "India",
+      "category": "news",
+      "language": "mr",
+      "credibility": "high"
+    },
+    {
+      "name": "Divya Bhaskar",
+      "url": "https://www.divyabhaskar.co.in/",
+      "country": "India",
+      "category": "news",
+      "language": "gu",
+      "credibility": "high"
+    },
+    {
+      "name": "Gujarat Samachar",
+      "url": "https://www.gujaratsamachar.com/",
+      "country": "India",
+      "category": "news",
+      "language": "gu",
+      "credibility": "high"
+    },
+    {
+      "name": "Sandesh",
+      "url": "https://sandesh.com/",
+      "country": "India",
+      "category": "news",
+      "language": "gu",
+      "credibility": "high"
+    },
+    {
+      "name": "ABP Live Gujarat",
+      "url": "https://www.abplive.com/gujarat",
+      "country": "India",
+      "category": "news",
+      "language": "gu",
+      "credibility": "high"
+    },
+    {
+      "name": "Gujarati News18",
+      "url": "https://gujarati.news18.com/",
+      "country": "India",
+      "category": "news",
+      "language": "gu",
+      "credibility": "high"
+    },
+    {
+      "name": "TV9 Gujarati",
+      "url": "https://www.tv9gujarati.com/",
+      "country": "India",
+      "category": "news",
+      "language": "gu",
+      "credibility": "high"
+    },
+    {
+      "name": "VTV Gujarati",
+      "url": "https://www.vtvgujarati.com/",
+      "country": "India",
+      "category": "news",
+      "language": "gu",
+      "credibility": "high"
+    },
+    {
+      "name": "Akila News",
+      "url": "https://www.akilanews.com/",
+      "country": "India",
+      "category": "news",
+      "language": "gu",
+      "credibility": "high"
+    },
+    {
+      "name": "Gujarati Mid Day",
+      "url": "https://www.gujaratimidday.com/",
+      "country": "India",
+      "category": "news",
+      "language": "gu",
+      "credibility": "high"
+    },
+    {
+      "name": "Chitralekha",
+      "url": "https://www.chitralekha.com/",
+      "country": "India",
+      "category": "news",
+      "language": "gu",
+      "credibility": "high"
+    },
+    {
+      "name": "Ajit Jalandhar",
+      "url": "https://www.ajitjalandhar.com/",
+      "country": "India",
+      "category": "news",
+      "language": "pa",
+      "credibility": "high"
+    },
+    {
+      "name": "Punjab Kesari",
+      "url": "https://www.punjabkesari.in/",
+      "country": "India",
+      "category": "news",
+      "language": "pa",
+      "credibility": "high"
+    },
+    {
+      "name": "Jagbani Punjab",
+      "url": "https://www.jagbani.punjabkesari.in/",
+      "country": "India",
+      "category": "news",
+      "language": "pa",
+      "credibility": "high"
+    },
+    {
+      "name": "Punjabi ABP Live",
+      "url": "https://punjabi.abplive.com/",
+      "country": "India",
+      "category": "news",
+      "language": "pa",
+      "credibility": "high"
+    },
+    {
+      "name": "Punjabi News18",
+      "url": "https://punjabi.news18.com/",
+      "country": "India",
+      "category": "news",
+      "language": "pa",
+      "credibility": "high"
+    },
+    {
+      "name": "PTC News",
+      "url": "https://www.ptcnews.tv/",
+      "country": "India",
+      "category": "news",
+      "language": "pa",
+      "credibility": "high"
+    },
+    {
+      "name": "Punjabi Tribune",
+      "url": "https://www.punjabitribuneonline.com/",
+      "country": "India",
+      "category": "news",
+      "language": "pa",
+      "credibility": "high"
+    },
+    {
+      "name": "Rozana Spokesman",
+      "url": "https://www.rozanaspokesman.com/",
+      "country": "India",
+      "category": "news",
+      "language": "pa",
+      "credibility": "high"
+    },
+    {
+      "name": "Punjabi Jagran",
+      "url": "https://www.punjabijagran.com/",
+      "country": "India",
+      "category": "news",
+      "language": "pa",
+      "credibility": "high"
+    },
+    {
+      "name": "Sambad",
+      "url": "https://sambad.in/",
+      "country": "India",
+      "category": "news",
+      "language": "or",
+      "credibility": "high"
+    },
+    {
+      "name": "Dharitri",
+      "url": "https://www.dharitri.com/",
+      "country": "India",
+      "category": "news",
+      "language": "or",
+      "credibility": "high"
+    },
+    {
+      "name": "Odisha TV",
+      "url": "https://odishatv.in/",
+      "country": "India",
+      "category": "news",
+      "language": "or",
+      "credibility": "high"
+    },
+    {
+      "name": "Kanak News",
+      "url": "https://kanaknews.com/",
+      "country": "India",
+      "category": "news",
+      "language": "or",
+      "credibility": "high"
+    },
+    {
+      "name": "Prameya News",
+      "url": "https://www.prameyanews.com/",
+      "country": "India",
+      "category": "news",
+      "language": "or",
+      "credibility": "high"
+    },
+    {
+      "name": "Odisha Bytes",
+      "url": "https://odishabytes.com/",
+      "country": "India",
+      "category": "news",
+      "language": "or",
+      "credibility": "high"
+    },
+    {
+      "name": "News18 Odia",
+      "url": "https://news18odia.com/",
+      "country": "India",
+      "category": "news",
+      "language": "or",
+      "credibility": "high"
+    },
+    {
+      "name": "Zee News Odia",
+      "url": "https://www.zeenews.india.com/odia",
+      "country": "India",
+      "category": "news",
+      "language": "or",
+      "credibility": "high"
+    },
+    {
+      "name": "Nandighosh TV",
+      "url": "https://www.nandighosh.tv/",
+      "country": "India",
+      "category": "news",
+      "language": "or",
+      "credibility": "high"
+    },
+    {
+      "name": "Asomiya Pratidin",
+      "url": "https://www.asomiyapratidin.in/",
+      "country": "India",
+      "category": "news",
+      "language": "as",
+      "credibility": "high"
+    },
+    {
+      "name": "Assam Tribune",
+      "url": "https://www.assamtribune.com/",
+      "country": "India",
+      "category": "news",
+      "language": "as",
+      "credibility": "high"
+    },
+    {
+      "name": "Pratidin Time",
+      "url": "https://www.pratidintime.com/",
+      "country": "India",
+      "category": "news",
+      "language": "as",
+      "credibility": "high"
+    },
+    {
+      "name": "DY 365",
+      "url": "https://www.dy365.in/",
+      "country": "India",
+      "category": "news",
+      "language": "as",
+      "credibility": "high"
+    },
+    {
+      "name": "News18 Assam",
+      "url": "https://www.news18assam.com/",
+      "country": "India",
+      "category": "news",
+      "language": "as",
+      "credibility": "high"
+    },
+    {
+      "name": "Prag News",
+      "url": "https://www.pragnews.com/",
+      "country": "India",
+      "category": "news",
+      "language": "as",
+      "credibility": "high"
+    },
+    {
+      "name": "Guwahati Plus",
+      "url": "https://www.guwahatiplus.com/",
+      "country": "India",
+      "category": "news",
+      "language": "as",
+      "credibility": "high"
+    },
+    {
+      "name": "Siasat",
+      "url": "https://www.siasat.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ur",
+      "credibility": "high"
+    },
+    {
+      "name": "Urdu Point",
+      "url": "https://www.urdupoint.com/india/",
+      "country": "India",
+      "category": "news",
+      "language": "ur",
+      "credibility": "high"
+    },
+    {
+      "name": "Qaumi Awaz",
+      "url": "https://www.qaumiawaz.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ur",
+      "credibility": "high"
+    },
+    {
+      "name": "Etemaad Daily",
+      "url": "https://www.etemaaddaily.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ur",
+      "credibility": "high"
+    },
+    {
+      "name": "Munsif Daily",
+      "url": "https://www.munsifdaily.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ur",
+      "credibility": "high"
+    },
+    {
+      "name": "Roznama Sahara",
+      "url": "https://www.roznamasahara.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ur",
+      "credibility": "high"
+    },
+    {
+      "name": "Baseerat Online",
+      "url": "https://www.baseeratonline.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ur",
+      "credibility": "high"
+    },
+    {
+      "name": "Greater Kashmir",
+      "url": "https://www.greaterkashmir.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ks",
+      "credibility": "high"
+    },
+    {
+      "name": "Rising Kashmir",
+      "url": "https://www.risingkashmir.com/",
+      "country": "India",
+      "category": "news",
+      "language": "ks",
+      "credibility": "high"
+    },
+    {
+      "name": "Kashmir Observer",
+      "url": "https://kashmirobserver.net/",
+      "country": "India",
+      "category": "news",
+      "language": "ks",
+      "credibility": "high"
+    },
+    {
+      "name": "Epaper Ekantipur",
+      "url": "https://www.epaper.ekantipur.com/",
+      "country": "Nepal",
+      "category": "news",
+      "language": "ne",
+      "credibility": "high"
+    },
+    {
+      "name": "Nepal News",
+      "url": "https://www.nepalnews.com/",
+      "country": "Nepal",
+      "category": "news",
+      "language": "ne",
+      "credibility": "high"
+    },
+    {
+      "name": "Herald Goa",
+      "url": "https://www.heraldgoa.in/",
+      "country": "India",
+      "category": "news",
+      "language": "kok",
+      "credibility": "high"
+    },
+    {
+      "name": "The Goan",
+      "url": "https://www.thegoan.net/",
+      "country": "India",
+      "category": "news",
+      "language": "kok",
+      "credibility": "high"
+    },
+    {
+      "name": "Navhind Times",
+      "url": "https://www.navhindtimes.in/",
+      "country": "India",
+      "category": "news",
+      "language": "kok",
+      "credibility": "high"
+    },
+    {
+      "name": "Sindhi Dunya",
+      "url": "https://www.sindhidunya.com/",
+      "country": "India",
+      "category": "news",
+      "language": "sd",
+      "credibility": "high"
+    },
+    {
+      "name": "Sindhi Sangat",
+      "url": "https://sindhisangat.com/",
+      "country": "India",
+      "category": "news",
+      "language": "sd",
+      "credibility": "high"
+    },
+    {
+      "name": "News on Air",
+      "url": "https://newsonair.gov.in/",
+      "country": "India",
+      "category": "news",
+      "language": "multi",
+      "credibility": "high"
+    },
+    {
+      "name": "Prasar Bharati",
+      "url": "https://prasarbharati.gov.in/",
+      "country": "India",
+      "category": "news",
+      "language": "multi",
+      "credibility": "high"
+    },
+    {
+      "name": "DD News",
+      "url": "https://www.ddnews.gov.in/",
+      "country": "India",
+      "category": "news",
+      "language": "multi",
+      "credibility": "high"
+    },
+    {
+      "name": "PIB",
+      "url": "https://www.pib.gov.in/",
+      "country": "India",
+      "category": "news",
+      "language": "multi",
+      "credibility": "high"
+    },
+    {
+      "name": "India.gov.in",
+      "url": "https://www.india.gov.in/",
+      "country": "India",
+      "category": "news",
+      "language": "multi",
+      "credibility": "high"
+    },
+    {
+      "name": "CNN",
+      "url": "https://www.cnn.com/",
+      "country": "USA",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/",
+      "country": "Qatar",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/",
+      "country": "France",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "DW News",
+      "url": "https://www.dw.com/",
+      "country": "Germany",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Euronews",
+      "url": "https://www.euronews.com/",
+      "country": "EU",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Sky News",
+      "url": "https://news.sky.com/",
+      "country": "UK",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "NHK World",
+      "url": "https://www3.nhk.or.jp/nhkworld/",
+      "country": "Japan",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "CNBC TV18",
+      "url": "https://www.cnbctv18.com/",
+      "country": "India",
+      "category": "business",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "ET Now News",
+      "url": "https://www.etnownews.com/",
+      "country": "India",
+      "category": "business",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Economic Times",
+      "url": "https://economictimes.indiatimes.com/",
+      "country": "India",
+      "category": "business",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Bloomberg",
+      "url": "https://www.bloomberg.com/",
+      "country": "USA",
+      "category": "business",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/",
+      "country": "USA",
+      "category": "business",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "Zee News",
+      "url": "https://zeenews.india.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "Republic World",
+      "url": "https://www.republicworld.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "India TV News",
+      "url": "https://www.indiatvnews.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "Sansad TV",
+      "url": "https://sansadtv.nic.in/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    },
+    {
+      "name": "WIONews",
+      "url": "https://www.wionews.com/",
+      "country": "India",
+      "category": "news",
+      "language": "en",
+      "credibility": "high"
+    }
+  ],
+  "article_sources": [
+    {
+      "name": "New York Times",
+      "url": "https://www.nytimes.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Washington Post",
+      "url": "https://www.washingtonpost.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Wall Street Journal",
+      "url": "https://www.wsj.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "The Atlantic",
+      "url": "https://www.theatlantic.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "The New Yorker",
+      "url": "https://www.newyorker.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Time",
+      "url": "https://time.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "The Economist",
+      "url": "https://www.economist.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "The Conversation",
+      "url": "https://theconversation.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "ProPublica",
+      "url": "https://www.propublica.org/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Vox",
+      "url": "https://www.vox.com/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "Slate",
+      "url": "https://slate.com/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "National Geographic",
+      "url": "https://www.nationalgeographic.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Smithsonian",
+      "url": "https://www.smithsonianmag.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Scientific American",
+      "url": "https://www.scientificamerican.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Nature",
+      "url": "https://www.nature.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Aeon",
+      "url": "https://aeon.co/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "Longreads",
+      "url": "https://www.longreads.com/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "Longform",
+      "url": "https://longform.org/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/",
+      "category": "article",
+      "credibility": "medium"
+    },
+    {
+      "name": "Substack",
+      "url": "https://substack.com/",
+      "category": "article",
+      "credibility": "medium"
+    },
+    {
+      "name": "Inc.",
+      "url": "https://www.inc.com/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "Forbes",
+      "url": "https://www.forbes.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Harvard Business Review",
+      "url": "https://hbr.org/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "McKinsey Insights",
+      "url": "https://www.mckinsey.com/insights/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Fast Company",
+      "url": "https://www.fastcompany.com/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "Entrepreneur",
+      "url": "https://www.entrepreneur.com/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "ESPNcricinfo",
+      "url": "https://www.espncricinfo.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Sports Illustrated",
+      "url": "https://www.si.com/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "GQ",
+      "url": "https://www.gq.com/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "Vanity Fair",
+      "url": "https://www.vanityfair.com/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "National Review",
+      "url": "https://www.nationalreview.com/",
+      "category": "article",
+      "credibility": "medium-high"
+    },
+    {
+      "name": "Foreign Policy",
+      "url": "https://foreignpolicy.com/",
+      "category": "article",
+      "credibility": "high"
+    },
+    {
+      "name": "Foreign Affairs",
+      "url": "https://foreignaffairs.com/",
+      "category": "article",
+      "credibility": "high"
+    }
+  ]
+}
