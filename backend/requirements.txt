@@ -22,7 +22,7 @@ networkx==3.2.1
 python-jose[cryptography]==3.3.0
 passlib[bcrypt]==1.7.4
 python-magic==0.4.27
-aiofiles==23.3.1
+aiofiles>=23.2.1
 slowapi==0.1.9
 limits==3.6.0
 pytest==7.4.3
